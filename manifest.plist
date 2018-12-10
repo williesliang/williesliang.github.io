@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>ipa的下载地址</string>
+					<string>https://github.com/williesliang/williesliang.github.io/raw/master/ipa/MidHillTest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>57*57尺寸的icon下载地址</string>
+					<string>https://github.com/williesliang/williesliang.github.io/raw/master/57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>512*512尺寸的icon下载地址</string>
+					<string>https://github.com/williesliang/williesliang.github.io/raw/master/512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
